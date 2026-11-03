@@ -50,7 +50,7 @@ const translations: Record<Language, Record<string, string>> = {
     'hero.role1': "Lulusan Teknik Kimia",
     'hero.role2': "Proses · Riset · R&D",
     'hero.badge.major': "Teknik Kimia UNJA",
-    'hero.badge.medal': "IPK 3.58 / 4.00",
+    'hero.badge.medal': "IPK 3.60 / 4.00",
     'hero.badge.event': "Universitas Jambi",
 
     // ── About Section
@@ -59,7 +59,7 @@ const translations: Record<Language, Record<string, string>> = {
     'about.ipk': "IPK",
     'about.honors': "TOEFL",
     'about.year': "Lulus",
-    'about.bio1': "Lulusan Teknik Kimia Universitas Jambi dengan pengalaman dalam operasi kilang, riset material, dan proyek energi terbarukan. Berpengalaman sebagai Peneliti di Badan Riset dan Inovasi Nasional (BRIN) dan Internship Trainee di PT Kilang Pertamina Internasional Refinery Unit III Plaju, dengan paparan pada evaluasi proses, karakterisasi material, dan analisis proses kimia. Mahir menggunakan perangkat lunak simulasi proses dan rekayasa seperti Aspen Plus, Aspen HYSYS, ChemCAD, Minitab, dan OriginLab untuk perancangan proses, analisis data, dan kegiatan riset. Mencari posisi entry-level di bidang Process Engineering, Produksi, Quality Control (QC), atau Research and Development (R&D).",
+    'about.bio1': "Lulusan Teknik Kimia Universitas Jambi dengan pengalaman dalam operasi kilang, riset material, dan proyek energi terbarukan. Berpengalaman sebagai Peneliti di Badan Riset dan Inovasi Nasional (BRIN) dan Internship di PT Kilang Pertamina Internasional Refinery Unit III Plaju, dengan paparan pada evaluasi proses, karakterisasi material, dan analisis proses kimia. Mahir menggunakan perangkat lunak simulasi proses dan rekayasa seperti Aspen Plus, Aspen HYSYS, ChemCAD, Minitab, dan OriginLab untuk perancangan proses, analisis data, dan kegiatan riset. Mencari posisi entry-level di bidang Process Engineering, Produksi, Quality Control (QC), atau Research and Development (R&D).",
     'about.cv.prompt': "Ingin tahu lebih lanjut?",
     'about.cv.link': "Unduh CV saya",
     'about.current.label': "BIDANG FOKUS",
@@ -96,7 +96,7 @@ const translations: Record<Language, Record<string, string>> = {
 
     // ── Metrics
     'metric.gpa': "IPK",
-    'metric.gpa.sub': "Teknik Kimia, Universitas Jambi (3.58 / 4.00)",
+    'metric.gpa.sub': "Teknik Kimia, Universitas Jambi (3.60 / 4.00)",
     'metric.toefl': "SKOR TOEFL",
     'metric.toefl.sub': "TOEFL Prediction Test (skor 550)",
     'metric.exp': "PENGALAMAN",
@@ -114,14 +114,14 @@ const translations: Record<Language, Record<string, string>> = {
     'education.1.program': "Teknik Kimia",
     'education.1.degree': "Sarjana Teknik Kimia",
     'education.1.period': "Agu 2022 — Nov 2026",
-    'education.1.gpa': "3.58 / 4.00",
+    'education.1.gpa': "3.60 / 4.00",
     'education.1.status': "Lulusan",
     'education.1.desc': "Menempuh pendidikan Sarjana Teknik Kimia di Universitas Jambi, dengan mata kuliah Neraca Massa & Energi, Termodinamika, Perpindahan Panas & Massa, Mekanika Fluida, serta Pengendalian Proses & Instrumentasi.",
     'education.1.tag': "Pendidikan Sarjana",
     'education.1.caption': "Universitas Jambi",
     'education.1.h1': "Tugas akhir: Pra-Rancangan Pabrik Sikloheksanon melalui Proses Hidrogenasi Fenol, kapasitas 55.000 ton/tahun",
     'education.1.h2': "Penelitian: sintesis hidroksiapatit berbasis cangkang telur yang didoping nanosilver (AgNPs) untuk aplikasi pasta gigi",
-    'education.1.h3': "Peneliti di BRIN dan Internship Trainee di PT Kilang Pertamina Internasional RU III Plaju",
+    'education.1.h3': "Peneliti di BRIN dan Internship di PT Kilang Pertamina Internasional RU III Plaju",
     'education.1.h4': "Aktif di HIMATEKA dan Chemical Engineering Fair (CEF) 2023 & 2024",
 
     // ── Work Section
@@ -137,7 +137,7 @@ const translations: Record<Language, Record<string, string>> = {
     'work.1.sub': "Hidroksiapatit dari Limbah Cangkang Telur & Nanopartikel Perak",
     'work.1.desc': "Meneliti sintesis hidroksiapatit dari limbah cangkang telur yang dipadukan dengan nanopartikel perak (AgNPs) hasil sintesis hijau untuk potensi aplikasi pasta gigi. Menyiapkan material hidroksiapatit melalui proses sintesis kimia dan mengoptimalkan parameter kalsinasi untuk memperoleh karakteristik material yang sesuai. Melakukan karakterisasi material dengan spektrofotometri UV–Vis, XRD, FTIR, dan FESEM untuk menganalisis sifat struktural, optik, dan morfologi, serta evaluasi antibakteri terhadap Streptococcus mutans dan Escherichia coli menggunakan metode difusi sumur untuk menilai kinerja komposit.",
 
-    'work.2.role': "Internship Trainee",
+    'work.2.role': "Internship",
     'work.2.inst': "PT KILANG PERTAMINA INTERNASIONAL REFINERY UNIT III PLAJU",
     'work.2.loc': "Magang",
     'work.2.period': "Sep 2025 — Okt 2025",
@@ -363,7 +363,7 @@ const translations: Record<Language, Record<string, string>> = {
     'hero.role1': "Chemical Engineering Graduate",
     'hero.role2': "Process · Research · R&D",
     'hero.badge.major': "Chemical Engineering UNJA",
-    'hero.badge.medal': "GPA 3.58 / 4.00",
+    'hero.badge.medal': "GPA 3.60 / 4.00",
     'hero.badge.event': "University of Jambi",
 
     // ── About Section
@@ -372,7 +372,7 @@ const translations: Record<Language, Record<string, string>> = {
     'about.ipk': "GPA",
     'about.honors': "TOEFL",
     'about.year': "Graduated",
-    'about.bio1': "Chemical Engineering Graduate from Universitas Jambi with experience in refinery operations, materials research, and renewable energy projects. Experienced as a Researcher at Badan Riset dan Inovasi Nasional (BRIN) and Internship Trainee at PT Kilang Pertamina Internasional Refinery Unit III Plaju, with exposure to process evaluation, material characterization, and chemical process analysis. Proficient in process simulation and engineering software including Aspen Plus, Aspen HYSYS, ChemCAD, Minitab, and OriginLab for process design, data analysis, and research activities. Seeking an entry-level position in Process Engineering, Production, Quality Control (QC), or Research and Development (R&D).",
+    'about.bio1': "Chemical Engineering Graduate from Universitas Jambi with experience in refinery operations, materials research, and renewable energy projects. Experienced as a Researcher at Badan Riset dan Inovasi Nasional (BRIN) and Internship at PT Kilang Pertamina Internasional Refinery Unit III Plaju, with exposure to process evaluation, material characterization, and chemical process analysis. Proficient in process simulation and engineering software including Aspen Plus, Aspen HYSYS, ChemCAD, Minitab, and OriginLab for process design, data analysis, and research activities. Seeking an entry-level position in Process Engineering, Production, Quality Control (QC), or Research and Development (R&D).",
     'about.cv.prompt': "Want to know more?",
     'about.cv.link': "Download my CV",
     'about.current.label': "FOCUS AREAS",
@@ -409,7 +409,7 @@ const translations: Record<Language, Record<string, string>> = {
 
     // ── Metrics
     'metric.gpa': "GPA",
-    'metric.gpa.sub': "Chemical Engineering, Universitas Jambi (3.58 / 4.00)",
+    'metric.gpa.sub': "Chemical Engineering, Universitas Jambi (3.60 / 4.00)",
     'metric.toefl': "TOEFL SCORE",
     'metric.toefl.sub': "TOEFL Prediction Test (score 550)",
     'metric.exp': "EXPERIENCES",
@@ -427,14 +427,14 @@ const translations: Record<Language, Record<string, string>> = {
     'education.1.program': "Chemical Engineering",
     'education.1.degree': "Bachelor of Chemical Engineering",
     'education.1.period': "Aug 2022 — Nov 2026",
-    'education.1.gpa': "3.58 / 4.00",
+    'education.1.gpa': "3.60 / 4.00",
     'education.1.status': "Graduate",
     'education.1.desc': "Studied for a Bachelor of Chemical Engineering at Universitas Jambi, with coursework in Mass & Energy Balance, Thermodynamics, Heat & Mass Transfer, Fluid Mechanics, and Process Control & Instrumentation.",
     'education.1.tag': "Bachelor's Degree",
     'education.1.caption': "University of Jambi",
     'education.1.h1': "Final project: Preliminary Design of a Cyclohexanone Production Plant via Phenol Hydrogenation, 55,000 tons/year capacity",
     'education.1.h2': "Research: synthesis of eggshell-based hydroxyapatite doped with nanosilver (AgNPs) for toothpaste applications",
-    'education.1.h3': "Researcher at BRIN and Internship Trainee at PT Kilang Pertamina Internasional RU III Plaju",
+    'education.1.h3': "Researcher at BRIN and Internship at PT Kilang Pertamina Internasional RU III Plaju",
     'education.1.h4': "Active in HIMATEKA and Chemical Engineering Fair (CEF) 2023 & 2024",
 
     // ── Work Section
@@ -450,7 +450,7 @@ const translations: Record<Language, Record<string, string>> = {
     'work.1.sub': "Hydroxyapatite from Eggshell Waste & Silver Nanoparticles",
     'work.1.desc': "Conducted research on hydroxyapatite synthesis from eggshell waste combined with green-synthesized silver nanoparticles (AgNPs) for potential toothpaste applications. Prepared hydroxyapatite materials through chemical synthesis processes and optimized calcination parameters to obtain suitable material characteristics. Performed material characterization using UV–Vis spectrophotometry, XRD, FTIR, and FESEM to analyze structural, optical, and morphological properties, and conducted antibacterial evaluation against Streptococcus mutans and Escherichia coli using the well diffusion method to assess composite performance.",
 
-    'work.2.role': "Internship Trainee",
+    'work.2.role': "Internship",
     'work.2.inst': "PT KILANG PERTAMINA INTERNASIONAL REFINERY UNIT III PLAJU",
     'work.2.loc': "Internship",
     'work.2.period': "Sep 2025 — Oct 2025",
